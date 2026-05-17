@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "dev.betterhud.client.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "client-better-hud-refmap.json",
+	"client": [
+		"InGameHudMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

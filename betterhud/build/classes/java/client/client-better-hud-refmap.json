@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "dev/betterhud/client/mixin/InGameHudMixin": {
+      "renderStatusEffectOverlay(Lnet/minecraft/client/gui/DrawContext;)V": "Lnet/minecraft/class_329;method_1765(Lnet/minecraft/class_332;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "dev/betterhud/client/mixin/InGameHudMixin": {
+        "renderStatusEffectOverlay(Lnet/minecraft/client/gui/DrawContext;)V": "Lnet/minecraft/class_329;method_1765(Lnet/minecraft/class_332;)V"
+      }
+    }
+  }
+}
